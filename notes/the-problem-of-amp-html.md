@@ -4,6 +4,8 @@ tags:
   - Web Tech
 emoji: 🤔
 link: http://www.niemanlab.org/2015/10/get-ampd-heres-what-publishers-need-to-know-about-googles-new-plan-to-speed-up-your-website/
+created: 2015-10-12
+modified: 2015-10-12
 ---
 
 

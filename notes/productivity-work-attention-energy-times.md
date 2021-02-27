@@ -3,6 +3,8 @@ title: Productivity Work = Attention x Energy x Times
 tags:
   - Productivity
 emoji: 💪🏻
+created: 2020-03-05
+modified: 2020-03-05
 ---
 
 

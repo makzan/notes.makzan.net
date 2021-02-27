@@ -1,9 +1,10 @@
 ---
 title: Saying No
-date: 2015-10-02
 tags:
   - Product
 emoji: 🙅🏻‍♀️
+created: 2015-10-02
+modified: 2015-10-02
 ---
 
 This week, the page [Product strategy means saying No](http://www.productstrategymeanssayingno.com/) from Intercom is popular.
