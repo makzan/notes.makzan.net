@@ -19,4 +19,4 @@ And a chapter [Start With No](https://gettingreal.37signals.com/ch05_Start_With_
 
 > Each time you say yes to a feature, you’re adopting a child. You have to take your baby through a whole chain of events (e.g. design, implementation, testing, etc.). And once that feature’s out there, you’re stuck with it. Just try to take a released feature away from customers and see how pissed off they get.
 
-—Thomas Mak, 2025-10-02.
+—Thomas Mak, 2015-10-02.
